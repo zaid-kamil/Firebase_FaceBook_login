@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48018082180",
+    "firebase_url": "https://fir-demo-17.firebaseio.com",
+    "project_id": "fir-demo-17",
+    "storage_bucket": "fir-demo-17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48018082180:android:ee579c52803115e6",
+        "android_client_info": {
+          "package_name": "xaidworkz.facebooklogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48018082180-3k89qriukpbj6tfap6pm4dt1354pti2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xaidworkz.facebooklogindemo",
+            "certificate_hash": "bd299a3b8abe2896562d725771ebdc55c19867ef"
+          }
+        },
+        {
+          "client_id": "48018082180-huak1m3ff8mifqgghsto7iuah7qtsk1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO8Lh9VybDLKWrt2ZpgAsbcID0c73ALE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48018082180-huak1m3ff8mifqgghsto7iuah7qtsk1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
